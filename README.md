@@ -6,6 +6,7 @@
 
 - THIS IS A TEST FOR GIT PULL ADD COMMIT AND PUSH!!!
 - This is also for test which is for after running gh auth logout
+- This is for test git pull without gh auth login
 
 <!---
 sy200829/sy200829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
